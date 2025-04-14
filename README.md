@@ -32,9 +32,9 @@ cd python-weather-application
 
 ## 🌐 Step 2: Get OpenWeatherMap API Key
 
--Sign up at OpenWeatherMap
--Copy your API key
--Create a .env file in the root directory:
+- Sign up at OpenWeatherMap
+- Copy your API key
+- Create a .env file in the root directory:
 ```bash
 WEATHER_API_KEY=your_openweather_api_key
 ```
@@ -138,7 +138,15 @@ kubectl delete -f service.yaml
 minikube stop
 ```
 
+****************************
+![Image](https://github.com/user-attachments/assets/98c40683-1142-434a-a91a-b1abd140286c)
 
+![Image](https://github.com/user-attachments/assets/5edefdd7-9008-4a2f-9bdd-ecbb9eb859f5)
+
+![Image](https://github.com/user-attachments/assets/bbeba070-d5ba-4194-b33b-63f126970b31)
+
+![Image](https://github.com/user-attachments/assets/5fa4e746-5317-4247-84b0-16a9f53e3fab)
+*****************************
 
 ✍️ Author
 rxm-gupta - GitHub
