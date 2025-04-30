@@ -1,6 +1,6 @@
 # 🌦️ Python Weather App with Docker & Kubernetes (Minikube)
 
-This project demonstrates how to build a weather app using Flask and OpenWeatherMap API, containerize it using Docker, push the image to Docker Hub, and deploy it on a local Kubernetes cluster using Minikube.
+This project demonstrates how to containerize a flask based application using Docker, push the image to Docker Hub, and deploy it on a local Kubernetes cluster using Minikube.
 
 ---
 
